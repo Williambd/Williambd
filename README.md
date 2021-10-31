@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Williambd
+- 👀 I’m interested in using Data to better understand the world.
