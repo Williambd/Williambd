@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Liam Deaton
-- [williambd.github.io]
+- I'm especially interested in projects at the intersection of Economics, Computational Statistics, and ML.
+- [williambd.github.io](williambd.github.io)
 
 
